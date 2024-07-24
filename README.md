@@ -1,7 +1,7 @@
 # AISE-2024
 ETH Zürich AI in the Sciences and Engineering Master's course 2024 📖
 
-[Course Website](https://camlab.ethz.ch/teaching/deep-learning-in-scientific-computing-2023.html)
+[Course Website](https://camlab.ethz.ch/teaching/ai-in-the-sciences-and-engineering-2024.html)
 
 Watch the entire course on YouTube [here](https://www.youtube.com/watch?v=LkKvhvsf6jY&list=PLJkYEExhe7rYFkBIB2U5pf_RWzYnFLj7r&index=1).
 
